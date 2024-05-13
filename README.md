@@ -1,5 +1,4 @@
 # EduConnect
-# EduConnect
 
 # Problem
 
